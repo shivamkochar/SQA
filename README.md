@@ -9,9 +9,11 @@ The program present the user 7 options: <br>
 5. Get rectangle Perimeter<br>
 6. Get Rectangle Area<br>
 7. Exit<br><br>
-<b>Screenshot</b>
-<b>1.</b>
-<img src=""><br><br>
-<b>2.</b>
-<ig src=""><br><br>
+<b>Screenshots:</b><br>
+<b>1.</b><br>
+<img src="Screenshots/Screenshot1.png" width=500><br><br>
+<b>2.</b><br>
+<img src="Screenshots/Screenshot2.PNG" width=500><br><br>
+<b>3.</b><br>
+<img src="Screenshots/Screenshot3.PNG" width=500>
 
