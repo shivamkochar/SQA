@@ -11,9 +11,9 @@ The program present the user 7 options: <br>
 7. Exit<br><br>
 <b>Screenshots:</b><br>
 <b>1.</b><br>
-<img src="Screenshots/Screenshot1.png" width=500><br><br>
+<img src="Screenshots/Screenshot1.png" width=800><br><br>
 <b>2.</b><br>
 <img src="Screenshots/Screenshot2.PNG" width=500><br><br>
 <b>3.</b><br>
-<img src="Screenshots/Screenshot3.PNG" width=500>
+<img src="Screenshots/Screenshot3.PNG" width=450>
 
