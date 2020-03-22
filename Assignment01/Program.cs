@@ -23,7 +23,7 @@ namespace Assignment01
                     check = true;
                     Console.WriteLine("Length: ");
                     length = int.Parse(Console.ReadLine());
-                    if (length < 0)
+                    if (length <= 0)
                     {
                         Console.WriteLine("Enter the length greater than zero");
                         check = true;
@@ -49,7 +49,7 @@ namespace Assignment01
                     check = true;
                     Console.WriteLine("Width: ");
                     width = int.Parse(Console.ReadLine());
-                    if (width < 0)
+                    if (width <= 0)
                     {
                         Console.WriteLine("Enter the width greater than zero");
                         check = true;
@@ -128,7 +128,7 @@ namespace Assignment01
                     try
                     {
                         check = true;
-                        if (recLength < 0)
+                        if (recLength <= 0)
                         {
                             Console.WriteLine("Enter the length greater than zero");
                             check = false;
@@ -153,7 +153,7 @@ namespace Assignment01
                     try
                     {
                         check = true;
-                        if (recWidth < 0)
+                        if (recWidth <= 0)
                         {
                             Console.WriteLine("Enter the width greater than zero");
                             check = false;
